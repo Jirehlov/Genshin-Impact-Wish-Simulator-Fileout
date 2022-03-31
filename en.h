@@ -1,7 +1,7 @@
 ﻿#pragma once
 #ifndef EN_H
 #define EN_H 1
-#define EN_S_1 "WELCOME TO GENSHIN IMPACT WISH SIMULATOR Fileout V2.6.4"
+#define EN_S_1 "WELCOME TO GENSHIN IMPACT WISH SIMULATOR Fileout V2.6.5"
 #define EN_S_2 "by Jirehlov Research"
 #define EN_S_3 "Source code available on GitHub: Jirehlov_Genshin-Impact-Wish-Simulator-Fileout"
 #define EN_S_4 "GPL-3.0 License"
