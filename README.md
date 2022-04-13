@@ -67,7 +67,8 @@ I Character Event Wish\
 25: Gentry of Hermitage/20220125-20220215 (Zhongli, Yanfei, Xingqiu, Beidou)\
 26: Everbloom Violet/20220216-20220308 (Yae Miko, Fischl, Diona, Thoma)\
 27: Reign of Serenity/20220308-20220329 (Raiden Shogun, Bennett, Xinyan, Kujo Sara)\
-28: Azure Excursion/20220330-20220419 (Kamisato Ayato, Yun Jin, Sucrose, Xiangling)
+28: Azure Excursion/20220330-20220419 (Kamisato Ayato, Yun Jin, Sucrose, Xiangling)\
+29: The Heron's Court/20220419-20220510 (Kamisato Ayaka, Sayu, Razor, Rosaria)
 
 II Character Event Wish-2\
 1: Born of Ocean Swell/20211124-20211214 (Eula, Rosaria, Noelle, Bennett)\
@@ -103,7 +104,8 @@ III Weapon Event Wish\
 24: Epitome Invocation/20220125-20220215 (Vortex Vanquisher, Amos' Bow, Lithic Blade, Favonius Sword, Dragon's Bane, Favonius Codex, Sacrificial Bow)\
 25: Epitome Invocation/20220216-20220308 (Kagura's Verity, Primordial Jade Cutter, Wavebreaker's Fin, Stringless, Sacrificial Sword, Eye of Perception, Rainslasher)\
 26: Epitome Invocation/20220308-20220329 (Engulfing Lightning, Everlasting Moonglow, Akuoumaru, Mouun's Moon, Dragon's Bane, Favonius Lance, Sacrificial Fragments)\
-27: Epitome Invocation/20220330-20220419 (Haran Tsukishiro Futsu, Elegy of the End, Rust, The Flute, The Widsith, Dragon's Bane, Sacrificial Greatsword)
+27: Epitome Invocation/20220330-20220419 (Haran Tsukishiro Futsu, Elegy of the End, Rust, The Flute, The Widsith, Dragon's Bane, Sacrificial Greatsword)\
+28: Epitome Invocation/20220419-20220510 (Mistsplitter Reforged, The Unforged, Favonius Warbow, Favonius Sword, Favonius Lance, Favonius Codex, The Bell)
 
 IV Permanent Wish\
 1: Wanderlust Invocation/20200928-20201222 (Released)\
@@ -182,7 +184,8 @@ giwsfo 1 2 100
 25: 陵薮市朝/20220125-20220215 (钟离, 烟绯, 行秋, 北斗)\
 26: 华紫樱绯/20220216-20220308 (八重神子, 菲谢尔, 迪奥娜, 托马)\
 27: 影寂天下人/20220308-20220329 (雷电将军, 班尼特, 辛焱, 九条裟罗)\
-28: 苍流踏花/20220330-20220419 (神里绫人, 云堇, 砂糖, 香菱)
+28: 苍流踏花/20220330-20220419 (神里绫人, 云堇, 砂糖, 香菱)\
+29: 白鹭之庭/20220419-20220510 (神里绫华, 早柚, 雷泽, 罗莎莉亚)
 
 二、角色活动祈愿-2\
 1: 浪涌之瞬/20211124-20211214 (优菈, 罗莎莉亚, 诺艾尔, 班尼特)\
@@ -218,7 +221,8 @@ giwsfo 1 2 100
 24: 神铸赋形/20220125-20220215 (贯虹之槊, 阿莫斯之弓, 千岩古剑, 西风剑, 匣里灭辰, 西风秘典, 祭礼弓)\
 25: 神铸赋形/20220216-20220308 (神乐之真意, 磐岩结绿, 断浪长鳍, 绝弦, 祭礼剑, 昭心, 雨裁)\
 26: 神铸赋形/20220308-20220329 (薙草之稻光, 不灭月华, 恶玉丸, 曚云之月, 匣里龙吟, 西风长枪, 祭礼残章)\
-27: 神铸赋形/20220330-20220419 (波乱月白经津, 终末嗟叹之诗, 弓藏, 笛剑, 流浪乐章, 匣里灭辰, 祭礼大剑)
+27: 神铸赋形/20220330-20220419 (波乱月白经津, 终末嗟叹之诗, 弓藏, 笛剑, 流浪乐章, 匣里灭辰, 祭礼大剑)\
+28: 神铸赋形/20220419-20220510 (雾切之回光, 无工之剑, 西风猎弓, 西风剑, 西风长枪, 西风秘典, 钟剑)
 
 四、常驻祈愿\
 1: 奔行世间/20200928-20201222 (公测)\
